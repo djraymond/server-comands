@@ -1,0 +1,2 @@
+# server-comands
+blockcmd.sk
